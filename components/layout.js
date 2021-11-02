@@ -4,7 +4,7 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Okra Proctor'
+const name = 'alley _.._ gators'
 export const siteTitle = 'TOX Next.js'
 
 export default function Layout({ children, home }) {
